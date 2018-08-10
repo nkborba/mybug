@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBug</string>
+    <string name="title_activity_to_null">ToNullActivity</string>
+</resources>
